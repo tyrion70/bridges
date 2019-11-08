@@ -1,0 +1,9 @@
+name: Kaiko data
+description: Kaiko data for heartbeat
+node_identifier: kaiko-market-data-api
+platforms:
+  - Docker
+data_sources:
+  - name: Kaiko
+    url: https://kaiko.com
+parameters:
